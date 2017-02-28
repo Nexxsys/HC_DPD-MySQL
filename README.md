@@ -5,7 +5,7 @@ HC_DPD-MySQL
 This is a compilation of files for the creation of tables in MySQL as well as the import process for creation of a Health Canada Drug Product Database using MySQL
 Process
 
-# If you are doing this from a NON-XAMPP install, say from a Ubuntu Server SSH connection.
+## If you are doing this from a NON-XAMPP install, say from a Ubuntu Server SSH connection.
 Pre-REQ: Have downloaded and unzipped the allfiles.zip from Health Canada.
 wget http://www.hc-sc.gc.ca/dhp-mps/alt_formats/zip/prodpharma/databasdon/allfiles.zip
 
